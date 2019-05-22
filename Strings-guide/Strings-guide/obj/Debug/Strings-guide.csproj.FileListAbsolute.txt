@@ -1,0 +1,7 @@
+C:\Users\johnm\source\repos\Strings-guide\Strings-guide\obj\Debug\Strings-guide.csprojAssemblyReference.cache
+C:\Users\johnm\source\repos\Strings-guide\Strings-guide\obj\Debug\Strings-guide.csproj.CoreCompileInputs.cache
+C:\Users\johnm\source\repos\Strings-guide\Strings-guide\bin\Debug\Strings-guide.exe.config
+C:\Users\johnm\source\repos\Strings-guide\Strings-guide\bin\Debug\Strings-guide.exe
+C:\Users\johnm\source\repos\Strings-guide\Strings-guide\bin\Debug\Strings-guide.pdb
+C:\Users\johnm\source\repos\Strings-guide\Strings-guide\obj\Debug\Strings-guide.exe
+C:\Users\johnm\source\repos\Strings-guide\Strings-guide\obj\Debug\Strings-guide.pdb
